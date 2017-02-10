@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  color: indigo;
+  font-size: 60px;
+}
+li {
+  font-family: fantasy;
+  font-style: italic;
+  color: blue;
+}
+
+.column {
+  float: left;
+  width: 300px;
+}
+#left{
+  text-align: left;
+}
+#center {
+  text-align: center;
+
+}
+
+#right {
+  float: right;
+
+}
+.bcolor {
+  height: 800px;
+  background: linear-gradient(to bottom, white, grey, black);
+}
+* {
+  overflow: hidden;
+}
