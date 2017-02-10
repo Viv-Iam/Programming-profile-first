@@ -8,32 +8,56 @@ h1 {
   font-weight: bolder;
   color: indigo;
   font-size: 60px;
+
+}
+.about {
+  color: white;
+}
+h2{
+  padding-left: 25px;
+  font-size: 30px;
+}
+h3{
+  padding-left: 100px;
 }
 li {
-  font-family: fantasy;
   font-style: italic;
-  color: blue;
+  color: green;
 }
 
 .column {
+  width: 500px;
   float: left;
-  width: 300px;
+  color: white;
 }
-#left{
-  text-align: left;
+p .column{
+  color: white;
 }
-#center {
-  text-align: center;
-
+#left {
+  padding-left: 100px;
+  font-size: 20px;
 }
-
-#right {
-  float: right;
-
+#right{
+  padding-left: 750px;
+  font-size: 18px;
+  padding-right: 0px;
+}
+ol {list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: block;
+    width: 60px;
+}
+.emphasy{
+  color: black;
 }
 .bcolor {
   height: 800px;
-  background: linear-gradient(to bottom, white, grey, black);
+  background-image: url("http://www.magicalkenya.com/wp-content/uploads/2014/08/homebannerimg6.jpg");
+  background-size: 1400px;
+  background-repeat: no-repeat;
 }
 * {
   overflow: hidden;
