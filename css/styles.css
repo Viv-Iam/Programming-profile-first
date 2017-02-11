@@ -1,7 +1,7 @@
-* {
+/* {
   margin: 0;
   padding: 0;
-}
+}*/
 
 h1 {
   text-align: center;
@@ -14,37 +14,23 @@ h1 {
   color: white;
 }
 h2{
-  padding-left: 25px;
   font-size: 30px;
 }
-h3{
-  padding-left: 100px;
-}
+
 li {
   font-style: italic;
   color: green;
 }
-
-.column {
-  width: 500px;
-  float: left;
-  color: white;
-}
-p .column{
-  color: white;
 }
 #left {
-  padding-left: 100px;
   font-size: 20px;
 }
 #right{
-  padding-left: 750px;
   font-size: 18px;
-  padding-right: 0px;
 }
-ol {list-style-type: none;
+/*ol {list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0;*/
 }
 li a {
     display: block;
@@ -59,6 +45,6 @@ li a {
   background-size: 1400px;
   background-repeat: no-repeat;
 }
-* {
+/* {
   overflow: hidden;
-}
+}*/
