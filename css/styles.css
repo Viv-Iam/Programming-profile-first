@@ -4,47 +4,73 @@
 }*/
 
 h1 {
-  text-align: center;
-  font-weight: bolder;
-  color: indigo;
-  font-size: 60px;
-
+    text-align: center;
+    font-weight: bolder;
+    font-size: 60px;
 }
-.about {
+.red {
+  color: red;
+}
+.whi {
   color: white;
 }
-h2{
-  font-size: 30px;
+.yel {
+  color: yellow;
+}
+.gre {
+  color: green;
+}
+.blu{
+  color: blue;
+}
+.ind{
+  color: indigo;
+}
+.pur {
+  color: purple;
+}
+.about {
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
 }
 
 li {
-  font-style: italic;
-  color: green;
+    font-style: italic;
+    color: purple;
+    font-weight: bold;
 }
+
+
 }
 #left {
-  font-size: 20px;
+    font-size: 20px;
 }
-#right{
-  font-size: 18px;
+#right {
+    font-size: 18px;
 }
+
 /*ol {list-style-type: none;
     margin: 0;
     padding: 0;*/
+
 }
 li a {
     display: block;
     width: 60px;
 }
-.emphasy{
-  color: black;
+.emphasy {
+    color: black;
 }
 .bcolor {
-  height: 800px;
-  background-image: url("http://www.magicalkenya.com/wp-content/uploads/2014/08/homebannerimg6.jpg");
-  background-size: 1400px;
-  background-repeat: no-repeat;
+    height: 800px;
+    background-image: url("http://www.magicalkenya.com/wp-content/uploads/2014/08/homebannerimg6.jpg");
+    background-size: 1400px;
+    background-repeat: no-repeat;
 }
-/* {
-  overflow: hidden;
-}*/
+
+* {
+color: black;
+}
