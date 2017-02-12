@@ -10,8 +10,8 @@ h1 {
 .red {
   color: red;
 }
-.whi {
-  color: white;
+.ora {
+  color: orange;
 }
 .yel {
   color: yellow;
@@ -35,14 +35,22 @@ h1 {
 h2 {
     font-size: 30px;
 }
+h3{
+  color: black;
+}
 
 li {
     font-style: italic;
     color: purple;
     font-weight: bold;
 }
-
-
+#boxmodel {
+  margin: 12px;
+  border: 2px solid green;
+  background-color: orange;
+  margin: 5px;
+  border: 2px solid black;
+  padding: 6px;
 }
 #left {
     font-size: 20px;
