@@ -12,4 +12,5 @@
 - I downloaded bootstrap and added a drop-down menu and well using bootstrap
 - I finished by using beautify to arrange my data on html and css
 - I constantly saved, commit and pushed my work to my remote repository
+
 ## [Programming Profile] (<https://viv-iam.github.io/>)
